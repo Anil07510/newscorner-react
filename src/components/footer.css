@@ -1,0 +1,41 @@
+.news_corner {
+  /* font-size: large; */
+  font-weight: bold;
+}
+.social-container {
+  margin: 2rem 0 2rem 0;
+  display: flex;
+  justify-content: start;
+}
+.footer_desc {
+  display: flex;
+  align-self: start;
+}
+
+.footer_link ul li,
+h5,
+dt,
+dd,
+p {
+  display: flex;
+  justify-content: start;
+  align-self: start;
+  list-style: none;
+}
+
+.social-inner {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.social-inner:hover {
+  color: red;
+}
+.rights{
+  margin: 1rem 0;
+  color: white;
+  justify-content: center;
+}
+.nuclearTech{
+  color: red;
+  font-weight: bold;
+}
